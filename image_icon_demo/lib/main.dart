@@ -31,7 +31,7 @@ class ImageAndIconScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Images & Icons trong Flutter '),
+        title: const Text('Images & Icons trong Flutter'),
         backgroundColor: Colors.blueAccent
       ),
       body: SingleChildScrollView(
